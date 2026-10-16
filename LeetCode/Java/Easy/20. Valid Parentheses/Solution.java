@@ -1,0 +1,26 @@
+import java.util.Stack;
+import java.util.Map;
+
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+
+        Map<Character, Character> mapping = Map.of(
+            ')', '(',
+            '}', '{',
+            ']', '['
+        );
+
+        for (char c : s.toCharArray()) {
+            if (mapping.containsValue(c)) {
+                stack.push(c);
+            } else if (mapping.containsKey(c)) {
+                if (stack.isEmpty() || mapping.get(c) != stack.pop()) {
+                    return false;
+                }
+            }
+        }
+
+        return stack.isEmpty();
+    }
+}
