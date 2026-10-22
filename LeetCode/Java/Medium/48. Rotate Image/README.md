@@ -1,6 +1,6 @@
 # 📝 48. Rotate Image (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rotate-image/)
+🔗 [Problem Link](https://leetcode.com/problems/rotate-image/?envType=problem-list-v2&envId=math)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Math, Matrix
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 43 MB
+- **Runtime:** Successfully Evaluated
+- **Memory:** N/A
 
 ---
 
