@@ -1,6 +1,6 @@
 # 📝 94. Binary Tree Inorder Traversal (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/)
+🔗 [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Stack, Tree, Depth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
