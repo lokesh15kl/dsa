@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 9 / 76 (11.8%)
+- **Completed:** 10 / 76 (13.2%)
 
 ---
 
@@ -28,7 +28,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Majority Element II
 - [ ] Unique Paths
 - [ ] Two Sum
-- [ ] 4Sum
+- [x] [4Sum](./Java/Medium/18. 4Sum/)
 - [ ] Longest Consecutive Sequence
 - [x] [Longest Substring Without Repeating Characters](./Java/Medium/3. Longest Substring Without Repeating Characters/)
 
