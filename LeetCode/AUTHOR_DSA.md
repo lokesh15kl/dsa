@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 16 / 238 (6.7%)
+- **Completed:** 17 / 238 (7.1%)
 
 ---
 
@@ -283,7 +283,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Delete the Middle Node of a Linked List
 - [x] [Remove Duplicates from Sorted List](./Java/Easy/83. Remove Duplicates from Sorted List/)
 - [ ] Remove Linked List Elements
-- [ ] Merge Two Sorted Lists
+- [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
 - [ ] Rotate List
 - [x] [Add Two Numbers](./Java/Medium/2. Add Two Numbers/)
 - [ ] Convert Binary Number in a Linked List to Integer
