@@ -8,8 +8,8 @@
 Array, Backtracking, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 46 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Backtracking, Sorting
 
 Given a collection of numbers,  `nums` , that might contain duplicates, return  *all possible unique permutations  **in any order** .*
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,1,2]
